@@ -8,6 +8,7 @@ Server : IOCP ( Visual Studio 2017 )
 DB : MySQL 8.0
 Data : XML( Google Sheet )
 
+
 서버 동작 ( 모든 데이터 처리는 서버에서 동작 )
 1. 로그인 / 로그아웃 / 회원가입
 2. 유저 정보 관리 ( MySQL )
@@ -18,6 +19,7 @@ Data : XML( Google Sheet )
 7. 교환 관리
 8. 상점 관리 ( 직업에 따른 상점 아이템 변동 )
 
+
 서버는 4개의 Manager를 사용
 1. DB Manager
 2. Level Manager ( Map )
@@ -25,9 +27,11 @@ Data : XML( Google Sheet )
 4. Trade Manager ( 교환 )
 
 
+
 Zone 동기화 방식을 Level_Manager를 통하여
 Zone의 종류
 마을맵, 채집맵
+ 
  
 시간을 통한 동기화가 필요한 부분은 Multimedia Timer를 활용하여 구현
  - 동물 AI
