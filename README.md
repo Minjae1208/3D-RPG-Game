@@ -3,6 +3,7 @@
 Unreal Engine4 + IOCP를 활용한 3D RPG 게임
 
 개발 환경
+
 Client : Unreal Engine 4.25.4
 
 Server : IOCP ( Visual Studio 2017 )
@@ -10,6 +11,9 @@ Server : IOCP ( Visual Studio 2017 )
 DB : MySQL 8.0
 
 Data : XML( Google Sheet )
+
+
+
 
 
 서버 동작 ( 모든 데이터 처리는 서버에서 동작 )
