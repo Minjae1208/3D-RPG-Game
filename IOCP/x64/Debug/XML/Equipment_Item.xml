@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EQUIPMENT_ITEM>
+  <data ID="310000" Item_Type="2" Equipment_Type="0" Occupaction="0" Name="일반_모자" Explan="일반_모자이다." />
+  <data ID="320000" Item_Type="2" Equipment_Type="1" Occupaction="0" Name="일반_옷" Explan="일반_옷이다." />
+  <data ID="330000" Item_Type="2" Equipment_Type="2" Occupaction="0" Name="일반_바지" Explan="일반_바지이다." />
+  <data ID="340000" Item_Type="2" Equipment_Type="3" Occupaction="1" Name="일반_장갑" Explan="꽃을_캘때_사용하는_장갑이다." />
+  <data ID="340001" Item_Type="2" Equipment_Type="3" Occupaction="2" Name="일반_도끼" Explan="나무를_벨때_사용하는_도끼이다." />
+  <data ID="340002" Item_Type="2" Equipment_Type="3" Occupaction="3" Name="일반_무기" Explan="동물을_사냥" />
+</EQUIPMENT_ITEM>
+

@@ -1,0 +1,7 @@
+﻿  Server.cpp
+c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\packet\serverpacket.h(61): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\packet\serverpacket.h(123): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\server\server.cpp(170): warning C4311: '형식 캐스트': 'stOver *'에서 'DWORD'(으)로 포인터가 잘립니다.
+c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\server\server.cpp(170): warning C4302: '형식 캐스트': 'stOver *'에서 'DWORD'(으)로 잘립니다.
+c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\server\server.cpp(320): warning C4267: '=': 'size_t'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IOCP.vcxproj -> C:\Users\Mim\Desktop\Study\Unreal\MimProject\IOCP Server\IOCP\x64\Debug\IOCP.exe

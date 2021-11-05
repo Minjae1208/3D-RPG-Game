@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHARACTER>
+  <data Level="1" Experience="200" Fatigue="200" />
+  <data Level="2" Experience="250" Fatigue="220" />
+  <data Level="3" Experience="300" Fatigue="240" />
+  <data Level="4" Experience="350" Fatigue="260" />
+  <data Level="5" Experience="400" Fatigue="280" />
+  <data Level="6" Experience="450" Fatigue="300" />
+  <data Level="7" Experience="500" Fatigue="320" />
+  <data Level="8" Experience="550" Fatigue="340" />
+  <data Level="9" Experience="600" Fatigue="360" />
+  <data Level="10" Experience="700" Fatigue="400" />
+  <data Level="11" Experience="750" Fatigue="440" />
+  <data Level="12" Experience="800" Fatigue="480" />
+  <data Level="13" Experience="850" Fatigue="520" />
+  <data Level="14" Experience="900" Fatigue="560" />
+  <data Level="15" Experience="1000" Fatigue="600" />
+  <data Level="16" Experience="1100" Fatigue="650" />
+  <data Level="17" Experience="1200" Fatigue="700" />
+  <data Level="18" Experience="1300" Fatigue="750" />
+  <data Level="19" Experience="1400" Fatigue="800" />
+  <data Level="20" Experience="1500" Fatigue="850" />
+</CHARACTER>
+

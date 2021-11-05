@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\Packet">
+      <UniqueIdentifier>{22bdc9e0-949f-4b94-96a0-33269b54e19c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Data">
+      <UniqueIdentifier>{ebcb7dfd-2ee6-4ae9-bf18-5d589c9325cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Data">
+      <UniqueIdentifier>{369ac245-c09d-49da-a60f-9213dfce2e20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Server">
+      <UniqueIdentifier>{69221aef-1afe-4566-94d5-cc5a004d3463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Server">
+      <UniqueIdentifier>{5add22a1-36c0-4115-b830-fb0cf77810ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager">
+      <UniqueIdentifier>{6ffc4d28-fc64-448a-a583-03a6ac2b2ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Manager">
+      <UniqueIdentifier>{e5e9423c-800a-47ee-b71c-6e7ca180a8bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Struct">
+      <UniqueIdentifier>{b503308e-fa17-441f-9585-915e1b5fcd81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\etc">
+      <UniqueIdentifier>{991ec688-85f0-44ba-8d2e-11e383705e7c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Server\Server.cpp">
+      <Filter>소스 파일\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\Data.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataCBFirst.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataCBSecond.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataCharacter.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataDropItem.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataEquipment.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataInteraction.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataMap.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataShop.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DataUseItem.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\tinyxml2.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\TimerManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\TradeManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\DBManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\LevelManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="etc\stdafx.cpp">
+      <Filter>헤더 파일\etc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Server\Server.h">
+      <Filter>헤더 파일\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataCBSecond.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataCharacter.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataDropItem.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataEquipment.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataInteraction.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataMap.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataShop.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataUseItem.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\tinyxml2.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\Data.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataCBFirst.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\DBManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\LevelManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\TimerManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\TradeManager.h">
+      <Filter>헤더 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\stLevel.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\stUser.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet\Type.h">
+      <Filter>헤더 파일\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet\PlayerPacket.h">
+      <Filter>헤더 파일\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet\LevelPacket.h">
+      <Filter>헤더 파일\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\stIOCP.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet\TradePacket.h">
+      <Filter>헤더 파일\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\stTrade.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\stTimer.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet\ServerPacket.h">
+      <Filter>헤더 파일\Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DataCBMat.h">
+      <Filter>헤더 파일\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct\stItem.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="etc\stdafx.h">
+      <Filter>헤더 파일\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="etc\targetver.h">
+      <Filter>헤더 파일\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="stServer.h">
+      <Filter>헤더 파일\Struct</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="x64\Debug\XML\CBFirst.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\CBSecond.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\Character.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\Drop_Item.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\Equipment_Item.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\First_2.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\Map.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\Shop.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+    <Xml Include="x64\Debug\XML\Use_Item.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

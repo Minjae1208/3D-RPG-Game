@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+  <data Occupation="1" Buy_Item="15000" Need_Item="14000" Need_Count="3" />
+  <data Occupation="1" Buy_Item="16000" Need_Item="14000" Need_Count="3" />
+  <data Occupation="1" Buy_Item="15002" Need_Item="14002" Need_Count="3" />
+  <data Occupation="1" Buy_Item="16001" Need_Item="14002" Need_Count="3" />
+  <data Occupation="1" Buy_Item="15003" Need_Item="14003" Need_Count="3" />
+  <data Occupation="1" Buy_Item="15004" Need_Item="14004" Need_Count="3" />
+  <data Occupation="2" Buy_Item="14000" Need_Item="15000" Need_Count="3" />
+  <data Occupation="2" Buy_Item="16000" Need_Item="15000" Need_Count="3" />
+  <data Occupation="2" Buy_Item="14002" Need_Item="15002" Need_Count="3" />
+  <data Occupation="2" Buy_Item="16001" Need_Item="15002" Need_Count="3" />
+  <data Occupation="2" Buy_Item="14003" Need_Item="15003" Need_Count="3" />
+  <data Occupation="2" Buy_Item="14004" Need_Item="15004" Need_Count="3" />
+  <data Occupation="3" Buy_Item="14000" Need_Item="16000" Need_Count="3" />
+  <data Occupation="3" Buy_Item="15000" Need_Item="16000" Need_Count="3" />
+  <data Occupation="3" Buy_Item="14002" Need_Item="16001" Need_Count="3" />
+  <data Occupation="3" Buy_Item="15002" Need_Item="16001" Need_Count="3" />
+</SHOP>
+

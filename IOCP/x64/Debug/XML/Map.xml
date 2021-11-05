@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Map>
+  <data ID="0" Name_ID="First_1" Name="마을" Type="1" Interaction="0" />
+  <data ID="1" Name_ID="First_2" Name="사냥1" Type="1" Interaction="1" />
+</Map>
+

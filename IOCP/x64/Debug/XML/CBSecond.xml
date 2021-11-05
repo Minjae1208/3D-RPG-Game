@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COMBINATION_ITEM>
+  <data ID="14001" Type="1" Name="분홍_포션" Explan="마시면_10의_피로도를_회복한다." CB1_ID="14000" CB1_Count="5" />
+  <data ID="14005" Type="1" Name="보라_포션" Explan="마시면_20의_피로도를_회복한다." CB1_ID="14002" CB1_Count="2" CB2_ID="14003" CB2_Count="2" CB3_ID="14004" CB3_Count="2" />
+  <data ID="15001" Type="0" Name="더욱_가공된_전나무" Explan="활용도가_높도록_가공시킨_전나무이다." CB1_ID="15000" CB1_Count="5" />
+</COMBINATION_ITEM>
+
