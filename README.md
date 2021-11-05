@@ -6,7 +6,7 @@ Unreal Engine4 + IOCP를 활용한 3D RPG 게임
 Client : Unreal Engine 4.25.4  
 Server : IOCP ( Visual Studio 2017 )  
 DB : MySQL 8.0  
-Data : XML( Google Sheet )    
+Data : XML( TinyXml2 & Google Sheet )    
 
 #
 
