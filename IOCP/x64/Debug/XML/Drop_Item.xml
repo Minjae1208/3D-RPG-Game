@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ETC_ITEM>
-  <data ID="11000" Type="0" Name="작약꽃" Explan="이쁘게_생긴_꽃이다." />
-  <data ID="11001" Type="0" Name="매실" Explan="달콤_쌈싸름한_매실이다." />
-  <data ID="11002" Type="0" Name="포도" Explan="씨가_많아_먹기_불편한_포도이다." />
-  <data ID="11003" Type="0" Name="기와버섯" Explan="먹으면_안될_것_같이_생긴_버섯이다." />
-  <data ID="12000" Type="0" Name="전나무" Explan="입문_건축물에_쓰일_것_같은_나무이다." />
-  <data ID="12001" Type="0" Name="나뭇가지" Explan="모든_나무에서_얻을_수_있는_나뭇가지_이다." />
-  <data ID="12002" Type="0" Name="편백나무" Explan="기초_건축물에_쓰일_것_같은_나무이다." />
-  <data ID="12003" Type="0" Name="가문비나무" Explan="초보_건축물에_쓰일_것_같은_나무이다." />
-  <data ID="12004" Type="0" Name="소나무" Explan="중급_건축물에_쓰일_것_같은_나무이다." />
-  <data ID="13000" Type="0" Name="오겹살" Explan="돼지에게_얻을_수_있는_배쪽_부위이다." />
-  <data ID="13001" Type="0" Name="동물의뼈" Explan="모든_동물에게_얻을_수_있는_뼈이다." />
-  <data ID="13002" Type="0" Name="돼지_족발" Explan="돼지에게_얻을_수_있는_다리쪽_부위이다." />
+  <data ID="11000" Type="0" Name="분홍색_꽃" Explan="분홍색_꽃이다." />
+  <data ID="11001" Type="0" Name="노란색_열매" Explan="노란색_열매이다." />
+  <data ID="11002" Type="0" Name="푸른색_열매" Explan="푸른색_열매이다." />
+  <data ID="11003" Type="0" Name="빨간색_버섯" Explan="빨간색_버섯이다." />
+  <data ID="12000" Type="0" Name="전나무" Explan="전나무이다." />
+  <data ID="12001" Type="0" Name="편백나무" Explan="편백나무이다." />
+  <data ID="12002" Type="0" Name="가문비나무" Explan="가문비나무이다." />
+  <data ID="12003" Type="0" Name="소나무" Explan="소나무이다." />
+  <data ID="13000" Type="0" Name="돼지뼈" Explan="돼지의_뼈_이다." />
+  <data ID="13001" Type="0" Name="여우뼈" Explan="여우의_뼈_이다." />
+  <data ID="13002" Type="0" Name="늑대머리뼈" Explan="늑대의_머리뼈_이다." />
+  <data ID="13003" Type="0" Name="사슴머리뼈" Explan="사슴의_머리뼈_이다." />
 </ETC_ITEM>
 

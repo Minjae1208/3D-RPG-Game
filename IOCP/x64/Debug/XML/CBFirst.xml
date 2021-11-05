@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <COMBINATION_ITEM>
-  <data ID="14000" Type="0" Name="작약꽃_가루" Explan="작약꽃으로_만든_가루이다." CB1_ID="11000" CB1_Count="3" />
-  <data ID="14002" Type="0" Name="매실씨앗_가루" Explan="매실씨앗으로_만든_가루이다." CB1_ID="11001" CB1_Count="4" />
-  <data ID="14003" Type="0" Name="포도씨앗_가루" Explan="포도씨앗으로_만든_가루이다." CB1_ID="11002" CB1_Count="4" />
-  <data ID="14004" Type="0" Name="기와버섯_가루" Explan="기와버섯으로_만든_가루이다." CB1_ID="11003" CB1_Count="4" />
-  <data ID="15000" Type="0" Name="가공된_전나무" Explan="가공시킨_전나무이다." CB1_ID="12000" CB1_Count="3" />
-  <data ID="15002" Type="0" Name="가공된_편백나무" Explan="가공시킨_편백나무이다." CB1_ID="12002" CB1_Count="4" />
-  <data ID="15003" Type="0" Name="가공된_가문비나무" Explan="가공시킨_가문비나무이다." CB1_ID="12003" CB1_Count="4" />
-  <data ID="15004" Type="0" Name="가공된_소나무" Explan="가공시킨_소나무이다." CB1_ID="12004" CB1_Count="4" />
-  <data ID="16000" Type="0" Name="구운_오겹살" Explan="잘_익은_오겹살이다." CB1_ID="13000" CB1_Count="3" />
-  <data ID="16001" Type="0" Name="구운_족발" Explan="잘_익은_족발이다." CB1_ID="13002" CB1_Count="4" />
-  <data ID="310000" Type="2" Name="일반_모자" Explan="일반_모자이다." />
-  <data ID="320000" Type="2" Name="일반_옷" Explan="일반_옷이다." />
-  <data ID="330000" Type="2" Name="일반_바지" Explan="일반_바지이다." />
-  <data ID="340000" Type="2" Name="일반_장갑" Explan="꽃을_캘때_사용하는_장갑이다." />
-  <data ID="340001" Type="2" Name="일반_도끼" Explan="나무를_벨때_사용하는_도끼이다." />
-  <data ID="340002" Type="2" Name="일반_무기" Explan="동물을_사냥" />
+  <data ID="14000" Type="0" Name="분홍_꽃_가루" Explan="분홍색_꽃으로_만든_가루이다." CB1_ID="11000" CB1_Count="3" />
+  <data ID="14001" Type="0" Name="노란_씨앗_가루" Explan="노란색_열매로_만든_가루이다." CB1_ID="11001" CB1_Count="4" />
+  <data ID="14002" Type="0" Name="푸른_씨앗_가루" Explan="푸른색_열매로_만든_가루이다." CB1_ID="11002" CB1_Count="4" />
+  <data ID="14003" Type="0" Name="붉은_버섯_가루" Explan="빨간색_버섯으로_만든_가루이다." CB1_ID="11003" CB1_Count="4" />
+  <data ID="15000" Type="0" Name="전나무(가공)" Explan="가공시킨_전나무이다." CB1_ID="12000" CB1_Count="3" />
+  <data ID="15001" Type="0" Name="편백나무(가공)" Explan="가공시킨_편백나무이다." CB1_ID="12001" CB1_Count="4" />
+  <data ID="15002" Type="0" Name="가문비나무(가공)" Explan="가공시킨_가문비나무이다." CB1_ID="12002" CB1_Count="4" />
+  <data ID="15003" Type="0" Name="소나무(가공)" Explan="가공시킨_소나무이다." CB1_ID="12003" CB1_Count="4" />
+  <data ID="16000" Type="0" Name="돼지뼈(가공)" Explan="가공시킨_돼지뼈이다." CB1_ID="13000" CB1_Count="3" />
+  <data ID="16001" Type="0" Name="여우뼈(가공)" Explan="가공시킨_여우뼈이다." CB1_ID="13001" CB1_Count="4" />
+  <data ID="16002" Type="0" Name="늑대머리뼈(가공)" Explan="가공시킨_늑대머리뼈이다." CB1_ID="13002" CB1_Count="4" />
+  <data ID="16003" Type="0" Name="사슴머리뼈(가공)" Explan="가공시킨_사슴머리뼈이다." CB1_ID="13003" CB1_Count="4" />
 </COMBINATION_ITEM>
 

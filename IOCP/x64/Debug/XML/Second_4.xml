@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Interaction>
+  <data ID="1090" Timer="100090" Type="1" Name="Flower_2" Drop="11001" X="37000" Y="14000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1091" Timer="100091" Type="1" Name="Flower_2" Drop="11001" X="37000" Y="15000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1092" Timer="100092" Type="1" Name="Flower_2" Drop="11001" X="37000" Y="16000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1093" Timer="100093" Type="1" Name="Flower_2" Drop="11001" X="37000" Y="17000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1094" Timer="100094" Type="1" Name="Flower_2" Drop="11001" X="37000" Y="18000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1095" Timer="100095" Type="1" Name="Flower_2" Drop="11001" X="38500" Y="14000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1096" Timer="100096" Type="1" Name="Flower_2" Drop="11001" X="38500" Y="15000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1097" Timer="100097" Type="1" Name="Flower_2" Drop="11001" X="38500" Y="16000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1098" Timer="100098" Type="1" Name="Flower_2" Drop="11001" X="38500" Y="17000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1099" Timer="100099" Type="1" Name="Flower_2" Drop="11001" X="38500" Y="18000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1100" Timer="100100" Type="2" Name="Tree_2" Drop="12001" X="34000" Y="13000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1101" Timer="100101" Type="2" Name="Tree_2" Drop="12001" X="34000" Y="14000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1102" Timer="100102" Type="2" Name="Tree_2" Drop="12001" X="34000" Y="15000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1103" Timer="100103" Type="2" Name="Tree_2" Drop="12001" X="34000" Y="16000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1104" Timer="100104" Type="2" Name="Tree_2" Drop="12001" X="34000" Y="17000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1105" Timer="100105" Type="2" Name="Tree_2" Drop="12001" X="35500" Y="13000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1106" Timer="100106" Type="2" Name="Tree_2" Drop="12001" X="35500" Y="14000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1107" Timer="100107" Type="2" Name="Tree_2" Drop="12001" X="35500" Y="15000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1108" Timer="100108" Type="2" Name="Tree_2" Drop="12001" X="35500" Y="16000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1109" Timer="100109" Type="2" Name="Tree_2" Drop="12001" X="35500" Y="17000" Z="-640" Experience="25" Fatigue="35" />
+  <data ID="1110" Timer="100110" Type="3" Name="Fox" Drop="13001" X="35000" Y="5500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1111" Timer="100111" Type="3" Name="Fox" Drop="13001" X="35000" Y="6500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1112" Timer="100112" Type="3" Name="Fox" Drop="13001" X="35000" Y="7500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1113" Timer="100113" Type="3" Name="Fox" Drop="13001" X="35000" Y="8500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1114" Timer="100114" Type="3" Name="Fox" Drop="13001" X="35000" Y="9500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1115" Timer="100115" Type="3" Name="Fox" Drop="13001" X="38000" Y="5500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1116" Timer="100116" Type="3" Name="Fox" Drop="13001" X="38000" Y="6500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1117" Timer="100117" Type="3" Name="Fox" Drop="13001" X="38000" Y="7500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1118" Timer="100118" Type="3" Name="Fox" Drop="13001" X="38000" Y="8500" Z="-545" Experience="25" Fatigue="35" />
+  <data ID="1119" Timer="100119" Type="3" Name="Fox" Drop="13001" X="38000" Y="9500" Z="-545" Experience="25" Fatigue="35" />
+</Interaction>
+

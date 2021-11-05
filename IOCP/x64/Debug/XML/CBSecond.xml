@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <COMBINATION_ITEM>
-  <data ID="14001" Type="1" Name="분홍_포션" Explan="마시면_10의_피로도를_회복한다." CB1_ID="14000" CB1_Count="5" />
-  <data ID="14005" Type="1" Name="보라_포션" Explan="마시면_20의_피로도를_회복한다." CB1_ID="14002" CB1_Count="2" CB2_ID="14003" CB2_Count="2" CB3_ID="14004" CB3_Count="2" />
-  <data ID="15001" Type="0" Name="더욱_가공된_전나무" Explan="활용도가_높도록_가공시킨_전나무이다." CB1_ID="15000" CB1_Count="5" />
+  <data ID="14004" Type="1" Name="분홍_포션" Explan="사용시_50의_피로도를_회복한다." CB1_ID="14000" CB1_Count="5" />
+  <data ID="14005" Type="1" Name="노랑_포션" Explan="사용시_100의_피로도를_회복한다." CB1_ID="14001" CB1_Count="5" />
+  <data ID="14006" Type="1" Name="보라_포션" Explan="사용시_500의_피로도를_회복한다." CB1_ID="14002" CB1_Count="5" />
+  <data ID="14007" Type="1" Name="붉은_포션" Explan="사용시_1000의_피로도를_회복한다." CB1_ID="14003" CB1_Count="5" />
+  <data ID="310000" Type="2" Name="하급_모자" Explan="피로도를_1감소_시켜주는_모자이다." CB1_ID="15000" CB1_Count="1" CB2_ID="16000" CB2_Count="1" />
+  <data ID="320000" Type="2" Name="하급_옷" Explan="피로도를_1감소_시켜주는_옷이다." CB1_ID="15000" CB1_Count="1" CB2_ID="16000" CB2_Count="1" />
+  <data ID="330000" Type="2" Name="하급_신발" Explan="피로도를_1감소_시켜주는_신발이다." CB1_ID="15000" CB1_Count="1" CB2_ID="16000" CB2_Count="1" />
+  <data ID="340000" Type="2" Name="하급_장갑" Explan="피로도를_5감소_시켜주는_장갑이다." CB1_ID="15000" CB1_Count="2" CB2_ID="16000" CB2_Count="2" />
+  <data ID="340001" Type="2" Name="하급_도끼" Explan="피로도를_5감소_시켜주는_도끼다." CB1_ID="15000" CB1_Count="2" CB2_ID="16000" CB2_Count="2" />
+  <data ID="340002" Type="2" Name="하급_무기" Explan="피로도를_5감소_시켜주는_창이다." CB1_ID="15000" CB1_Count="2" CB2_ID="16000" CB2_Count="2" />
+  <data ID="350000" Type="2" Name="하급_가방" Explan="5칸이_늘어나는_가방이다." CB1_ID="15000" CB1_Count="3" CB2_ID="16000" CB2_Count="3" />
+  <data ID="310001" Type="2" Name="중급_모자" Explan="피로도를_2감소_시켜주는_모자이다." CB1_ID="15001" CB1_Count="1" CB2_ID="16001" CB2_Count="1" />
+  <data ID="320001" Type="2" Name="중급_옷" Explan="피로도를_2감소_시켜주는_옷이다." CB1_ID="15001" CB1_Count="1" CB2_ID="16001" CB2_Count="1" />
+  <data ID="330001" Type="2" Name="중급_신발" Explan="피로도를_2감소_시켜주는_신발이다." CB1_ID="15001" CB1_Count="1" CB2_ID="16001" CB2_Count="1" />
+  <data ID="340003" Type="2" Name="중급_장갑" Explan="피로도를_10감소_시켜주는_장갑이다." CB1_ID="15001" CB1_Count="2" CB2_ID="16001" CB2_Count="2" />
+  <data ID="340004" Type="2" Name="중급_도끼" Explan="피로도를_10감소_시켜주는_도끼다." CB1_ID="15001" CB1_Count="2" CB2_ID="16001" CB2_Count="2" />
+  <data ID="340005" Type="2" Name="중급_무기" Explan="피로도를_10감소_시켜주는_창이다." CB1_ID="15001" CB1_Count="2" CB2_ID="16001" CB2_Count="2" />
+  <data ID="350001" Type="2" Name="중급_가방" Explan="10칸이_늘어나는_가방이다." CB1_ID="15001" CB1_Count="3" CB2_ID="16001" CB2_Count="3" />
+  <data ID="310002" Type="2" Name="상급_모자" Explan="피로도를_3감소_시켜주는_모자이다." CB1_ID="15002" CB1_Count="1" CB2_ID="16002" CB2_Count="1" CB3_ID="15003" CB3_Count="1" CB4_ID="16003" CB4_Count="1" />
+  <data ID="320002" Type="2" Name="상급_옷" Explan="피로도를_3감소_시켜주는_옷이다." CB1_ID="15002" CB1_Count="1" CB2_ID="16002" CB2_Count="1" CB3_ID="15003" CB3_Count="1" CB4_ID="16003" CB4_Count="1" />
+  <data ID="330002" Type="2" Name="상급_신발" Explan="피로도를_3감소_시켜주는_신발이다." CB1_ID="15002" CB1_Count="1" CB2_ID="16002" CB2_Count="1" CB3_ID="15003" CB3_Count="1" CB4_ID="16003" CB4_Count="1" />
+  <data ID="340006" Type="2" Name="상급_장갑" Explan="피로도를_15감소_시켜주는_장갑이다." CB1_ID="15002" CB1_Count="2" CB2_ID="16002" CB2_Count="2" CB3_ID="15003" CB3_Count="2" CB4_ID="16003" CB4_Count="2" />
+  <data ID="340007" Type="2" Name="상급_도끼" Explan="피로도를_15감소_시켜주는_도끼다." CB1_ID="15002" CB1_Count="2" CB2_ID="16002" CB2_Count="2" CB3_ID="15003" CB3_Count="2" CB4_ID="16003" CB4_Count="2" />
+  <data ID="340008" Type="2" Name="상급_무기" Explan="피로도를_15감소_시켜주는_창이다." CB1_ID="15002" CB1_Count="2" CB2_ID="16002" CB2_Count="2" CB3_ID="15003" CB3_Count="2" CB4_ID="16003" CB4_Count="2" />
+  <data ID="350002" Type="2" Name="상급_가방" Explan="15칸이_늘어나는_가방이다." CB1_ID="15002" CB1_Count="3" CB2_ID="16002" CB2_Count="3" CB3_ID="15003" CB3_Count="3" CB4_ID="16003" CB4_Count="3" />
 </COMBINATION_ITEM>
 

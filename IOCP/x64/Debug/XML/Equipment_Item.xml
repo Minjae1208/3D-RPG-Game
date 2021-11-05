@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EQUIPMENT_ITEM>
-  <data ID="310000" Item_Type="2" Equipment_Type="0" Occupaction="0" Name="일반_모자" Explan="일반_모자이다." />
-  <data ID="320000" Item_Type="2" Equipment_Type="1" Occupaction="0" Name="일반_옷" Explan="일반_옷이다." />
-  <data ID="330000" Item_Type="2" Equipment_Type="2" Occupaction="0" Name="일반_바지" Explan="일반_바지이다." />
-  <data ID="340000" Item_Type="2" Equipment_Type="3" Occupaction="1" Name="일반_장갑" Explan="꽃을_캘때_사용하는_장갑이다." />
-  <data ID="340001" Item_Type="2" Equipment_Type="3" Occupaction="2" Name="일반_도끼" Explan="나무를_벨때_사용하는_도끼이다." />
-  <data ID="340002" Item_Type="2" Equipment_Type="3" Occupaction="3" Name="일반_무기" Explan="동물을_사냥" />
+  <data ID="310000" Item_Type="2" Equipment_Type="0" Occupaction="0" Name="하급_모자" Explan="피로도를_1감소_시켜주는_모자이다." Stat="1" />
+  <data ID="320000" Item_Type="2" Equipment_Type="1" Occupaction="0" Name="하급_옷" Explan="피로도를_1감소_시켜주는_옷이다." Stat="1" />
+  <data ID="330000" Item_Type="2" Equipment_Type="2" Occupaction="0" Name="하급_신발" Explan="피로도를_1감소_시켜주는_신발이다." Stat="1" />
+  <data ID="340000" Item_Type="2" Equipment_Type="3" Occupaction="1" Name="하급_장갑" Explan="피로도를_5감소_시켜주는_장갑이다." Stat="5" />
+  <data ID="340001" Item_Type="2" Equipment_Type="3" Occupaction="2" Name="하급_도끼" Explan="피로도를_5감소_시켜주는_도끼다." Stat="5" />
+  <data ID="340002" Item_Type="2" Equipment_Type="3" Occupaction="3" Name="하급_검" Explan="피로도를_5감소_시켜주는_검이다." Stat="5" />
+  <data ID="350000" Item_Type="2" Equipment_Type="4" Occupaction="0" Name="하급_가방" Explan="5칸이_늘어나는_가방이다." Stat="5" />
+  <data ID="310001" Item_Type="2" Equipment_Type="0" Occupaction="0" Name="중급_모자" Explan="피로도를_2감소_시켜주는_모자이다." Stat="2" />
+  <data ID="320001" Item_Type="2" Equipment_Type="1" Occupaction="0" Name="중급_옷" Explan="피로도를_2감소_시켜주는_옷이다." Stat="2" />
+  <data ID="330001" Item_Type="2" Equipment_Type="2" Occupaction="0" Name="중급_신발" Explan="피로도를_2감소_시켜주는_신발이다." Stat="2" />
+  <data ID="340003" Item_Type="2" Equipment_Type="3" Occupaction="1" Name="중급_장갑" Explan="피로도를_10감소_시켜주는_장갑이다." Stat="10" />
+  <data ID="340004" Item_Type="2" Equipment_Type="3" Occupaction="2" Name="중급_도끼" Explan="피로도를_10감소_시켜주는_도끼다." Stat="10" />
+  <data ID="340005" Item_Type="2" Equipment_Type="3" Occupaction="3" Name="중급_검" Explan="피로도를_10감소_시켜주는_검이다." Stat="10" />
+  <data ID="350001" Item_Type="2" Equipment_Type="4" Occupaction="0" Name="중급_가방" Explan="10칸이_늘어나는_가방이다." Stat="10" />
+  <data ID="310002" Item_Type="2" Equipment_Type="0" Occupaction="0" Name="고급_모자" Explan="피로도를_3감소_시켜주는_모자이다." Stat="3" />
+  <data ID="320002" Item_Type="2" Equipment_Type="1" Occupaction="0" Name="고급_옷" Explan="피로도를_3감소_시켜주는_옷이다." Stat="3" />
+  <data ID="330002" Item_Type="2" Equipment_Type="2" Occupaction="0" Name="고급_신발" Explan="피로도를_3감소_시켜주는_신발이다." Stat="3" />
+  <data ID="340006" Item_Type="2" Equipment_Type="3" Occupaction="1" Name="고급_장갑" Explan="피로도를_15감소_시켜주는_장갑이다." Stat="15" />
+  <data ID="340007" Item_Type="2" Equipment_Type="3" Occupaction="2" Name="고급_도끼" Explan="피로도를_15감소_시켜주는_도끼다." Stat="15" />
+  <data ID="340008" Item_Type="2" Equipment_Type="3" Occupaction="3" Name="고급_검" Explan="피로도를_15감소_시켜주는_검이다." Stat="15" />
+  <data ID="350002" Item_Type="2" Equipment_Type="4" Occupaction="0" Name="고급_가방" Explan="15칸이_늘어나는_가방이다." Stat="15" />
 </EQUIPMENT_ITEM>
 

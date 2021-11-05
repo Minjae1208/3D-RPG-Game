@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Map>
-  <data ID="0" Name_ID="First_1" Name="마을" Type="1" Interaction="0" />
-  <data ID="1" Name_ID="First_2" Name="사냥1" Type="1" Interaction="1" />
+  <data ID="1" Name_ID="First_1" Name="선사_마을" Type="1" Interaction="0" />
+  <data ID="2" Name_ID="First_2" Name="선사_채집1" Type="3" Interaction="1" X_max="11000" X_min="5500" Y_max="9500" Y_min="4000" />
+  <data ID="3" Name_ID="First_3" Name="선사_채집2" Type="3" Interaction="1" X_max="13000" X_min="4500" Y_max="-14000" Y_min="-20000" />
+  <data ID="4" Name_ID="Second_1" Name="상고_마을" Type="1" Interaction="0" />
+  <data ID="5" Name_ID="Second_2" Name="상고_갈림길" Type="2" Interaction="0" />
+  <data ID="6" Name_ID="Second_3" Name="상고_사냥1" Type="3" Interaction="1" X_max="-75000" X_min="-80000" Y_max="19000" Y_min="13000" />
+  <data ID="7" Name_ID="Second_4" Name="상고_사냥2" Type="3" Interaction="1" X_max="40000" X_min="34000" Y_max="11000" Y_min="4500" />
+  <data ID="8" Name_ID="Third_1" Name="고대_마을1" Type="1" Interaction="0" />
+  <data ID="9" Name_ID="Third_2" Name="고대_갈림길1" Type="2" Interaction="0" />
+  <data ID="10" Name_ID="Third_3" Name="고대_채집1" Type="3" Interaction="1" X_max="-75000" X_min="-80000" Y_max="19000" Y_min="13000" />
+  <data ID="11" Name_ID="Third_4" Name="고대_채집2" Type="3" Interaction="1" X_max="40000" X_min="34000" Y_max="11000" Y_min="4500" />
+  <data ID="12" Name_ID="Third_5" Name="고대_마을2" Type="1" Interaction="0" />
+  <data ID="13" Name_ID="Third_6" Name="고대_갈림길2" Type="2" Interaction="0" />
+  <data ID="14" Name_ID="Third_7" Name="고대_채집3" Type="3" Interaction="1" X_max="-75000" X_min="-80000" Y_max="19000" Y_min="13000" />
+  <data ID="15" Name_ID="Third_8" Name="고대_채집4" Type="3" Interaction="1" X_max="40000" X_min="34000" Y_max="11000" Y_min="4500" />
 </Map>
 

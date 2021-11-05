@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <USE_ITEM>
-  <data ID="14001" Fatigue="10" />
-  <data ID="14005" Fatigue="20" />
+  <data ID="14004" Fatigue="50" />
+  <data ID="14005" Fatigue="100" />
+  <data ID="14006" Fatigue="500" />
+  <data ID="14007" Fatigue="1000" />
 </USE_ITEM>
 

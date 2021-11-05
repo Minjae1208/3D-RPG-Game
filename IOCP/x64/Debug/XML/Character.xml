@@ -20,5 +20,25 @@
   <data Level="18" Experience="1300" Fatigue="750" />
   <data Level="19" Experience="1400" Fatigue="800" />
   <data Level="20" Experience="1500" Fatigue="850" />
+  <data Level="21" Experience="1600" Fatigue="900" />
+  <data Level="22" Experience="1700" Fatigue="1000" />
+  <data Level="23" Experience="1800" Fatigue="1100" />
+  <data Level="24" Experience="1900" Fatigue="1200" />
+  <data Level="25" Experience="2000" Fatigue="1300" />
+  <data Level="26" Experience="2100" Fatigue="1400" />
+  <data Level="27" Experience="2200" Fatigue="1500" />
+  <data Level="28" Experience="2300" Fatigue="1600" />
+  <data Level="29" Experience="2400" Fatigue="1700" />
+  <data Level="30" Experience="2500" Fatigue="1800" />
+  <data Level="31" Experience="3000" Fatigue="2000" />
+  <data Level="32" Experience="3500" Fatigue="2200" />
+  <data Level="33" Experience="4000" Fatigue="2400" />
+  <data Level="34" Experience="4500" Fatigue="2600" />
+  <data Level="35" Experience="5000" Fatigue="2800" />
+  <data Level="36" Experience="5500" Fatigue="3000" />
+  <data Level="37" Experience="6000" Fatigue="3500" />
+  <data Level="38" Experience="6500" Fatigue="4000" />
+  <data Level="39" Experience="7000" Fatigue="4500" />
+  <data Level="40" Experience="8000" Fatigue="5000" />
 </CHARACTER>
 
