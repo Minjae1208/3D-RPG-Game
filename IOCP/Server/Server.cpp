@@ -228,7 +228,7 @@ void Server::WorkerThread()
 		);
 		if (m_bResult == false || m_dwRecvBytes == 0)
 		{
-			cout << "[INFO] Socket(" << m_pOver->socket << ") 접속 끊김\n" << endl;
+			cout << "[Packet] Socket(" << m_pOver->socket << ") 접속 끊김\n" << endl;
 			int m_nSessionID = 0;
 			for (auto& itUser : User_Data)
 			{
@@ -569,7 +569,7 @@ void Server::Login(std::stringstream & RecvStream, stOver * pOver)
 
 	RecvStream >> m_strID;
 	RecvStream >> m_strPW;
-	printf_s("[INFO][LoginServer] 로그인 시도 {%s},{%s}\n", m_strID.c_str(), m_strPW.c_str());
+	printf_s("[Login] 로그인 시도 {%s},{%s}\n", m_strID.c_str(), m_strPW.c_str());
 
 #if DB_CHECK
 	if (DB_Manager.Login(m_strID, m_strPW))
@@ -585,7 +585,7 @@ void Server::Login(std::stringstream & RecvStream, stOver * pOver)
 		m_strCharacterName = DB_Manager.GetCName(m_nSessionID);
 
 		m_strCharacterName += "\0";
-		cout << "[INFO][LoginServer] " << m_strCharacterName.c_str() << " 로그인 성공!" << endl;
+		cout << "[Login] " << m_strCharacterName.c_str() << " 로그인 성공!" << endl;
 
 		// 패킷 RecvPacket_Login에 값 저장
 		sendLogin.LoginResult = true;
@@ -604,7 +604,7 @@ void Server::Login(std::stringstream & RecvStream, stOver * pOver)
 	{
 		m_nSessionID = 0;
 		m_nOccupationID = 0;
-		cout << "[INFO][LoginServer] 로그인 실패!" << endl;
+		cout << "[Login] 로그인 실패!" << endl;
 	}
 #else
 	sendLogin.LoginResult = true;
@@ -614,7 +614,7 @@ void Server::Login(std::stringstream & RecvStream, stOver * pOver)
 	sendLogin.Experence = 0;
 	sendLogin.Fatigue = 200;
 
-	cout << "[INFO][LoginServer] " << sendLogin.UserCName << " 로그인 성공!" << endl;
+	cout << "[Login] " << sendLogin.UserCName << " 로그인 성공!" << endl;
 
 #endif
 
@@ -693,7 +693,7 @@ void Server::Login_Success(std::stringstream & RecvStream, stOver * pOver)
 
 	if (m_bRecvCheck && m_nLevel_ID != 0)
 	{
-		printf_s("[InGameServer] %s님이 인게임으로 접속했습니다.\n", m_sUserCName.c_str());
+		printf_s("[Login] %s님이 인게임으로 접속했습니다.\n", m_sUserCName.c_str());
 		m_bSendCheck = true;
 	}
 

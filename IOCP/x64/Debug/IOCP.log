@@ -1,7 +1,38 @@
-﻿  Server.cpp
-c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\packet\serverpacket.h(61): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\packet\serverpacket.h(123): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\server\server.cpp(170): warning C4311: '형식 캐스트': 'stOver *'에서 'DWORD'(으)로 포인터가 잘립니다.
-c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\server\server.cpp(170): warning C4302: '형식 캐스트': 'stOver *'에서 'DWORD'(으)로 잘립니다.
-c:\users\mim\desktop\study\unreal\mimproject\iocp server\iocp\server\server.cpp(320): warning C4267: '=': 'size_t'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  IOCP.vcxproj -> C:\Users\Mim\Desktop\Study\Unreal\MimProject\IOCP Server\IOCP\x64\Debug\IOCP.exe
+﻿  Data.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacharacter.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataCBFirst.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacbfirst.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataCBSecond.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacbsecond.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataCharacter.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacharacter.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataDropItem.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datadropitem.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataEquipment.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\dataequipment.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataInteraction.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datainteraction.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataMap.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datamap.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataShop.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datashop.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DataUseItem.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datauseitem.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  tinyxml2.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'Data\tinyxml2.cpp': No such file or directory
+  stdafx.cpp
+  main.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacharacter.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  DBManager.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\manager\dbmanager.cpp(403): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LevelManager.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacharacter.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  TimerManager.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\manager\timermanager.cpp(158): warning C4244: '인수': 'DWORD_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\manager\timermanager.cpp(164): warning C4244: '인수': 'DWORD_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\manager\timermanager.cpp(169): warning C4244: '인수': 'DWORD_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\manager\timermanager.cpp(175): warning C4244: '인수': 'DWORD_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TradeManager.cpp
+  Server.cpp
+c:\users\mim\desktop\study\github\3d-rpg-game\iocp\data\datacharacter.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'tinyxml2.h': No such file or directory
+  코드를 생성하고 있습니다...
