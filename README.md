@@ -8,6 +8,8 @@ Server : IOCP ( Visual Studio 2017 )
 DB : MySQL 8.0  
 Data : XML( TinyXml2 & Google Sheet )    
 
+Test 영상 : <https://www.youtube.com/watch?v=HlGKacfPWtw>
+
 #
 
 서버 동작 ( 모든 데이터 처리는 서버에서 동작 )
